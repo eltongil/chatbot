@@ -1,0 +1,25 @@
+{
+  "name": "chatbot",
+  "version": "0.0.1",
+  "description": "chatbot for 123enutrindo",
+  "keywords": [
+    "chatbot",
+    "ai",
+    "langchain"
+  ],
+  "homepage": "https://github.com/eltongil/chatbot#readme",
+  "bugs": {
+    "url": "https://github.com/eltongil/chatbot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eltongil/chatbot.git"
+  },
+  "license": "ISC",
+  "author": "Elton Moura",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  }
+}
